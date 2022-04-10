@@ -1,5 +1,5 @@
 # Well, hello! :raised_hand:
 
-> I'm Frederick, an experienced passionate self-taught full stack web developer from Berlin, Germany.
+> I'm Frederick, a passionate self-taught full stack web developer from Berlin, Germany.
 
-tbc.
+You can find [more about me here](https://svefre.github.io/). :blush:
